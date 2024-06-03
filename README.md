@@ -43,7 +43,5 @@
 - The Test Report summarizes the overall testing process, outcomes, and metrics.
 4. Test Plan
 - The Test Plan outlines the testing strategy, objectives, resources, schedule, and scope of the testing activities.
-# Contributing
-- Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that you follow the established coding standards and include detailed commit messages.
 # License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
